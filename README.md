@@ -1,3 +1,45 @@
-  This repository contains implementations of fundamental **Data Structures and Algorithms (DSA)** concepts written in C++.
-  It is designed as a practice resource for students to understand core programming logic and strengthen problem-solving skills.  The repository covers a wide range of topics including **linked lists, stacks, queues, trees, searching, and sorting algorithms**, with a focus on clarity and completeness of operations.  ---  ### 🚀 
-  Topics Covered  🔗 Linked Lists  * Singly Linked List (all insertion & deletion operations) * Doubly Linked List (all insertion & deletion operations) * Circular Linked List (all insertion & deletion operations)  #### 📚 Stack  * Stack using Array * Stack using Linked List  #### 📥 Queue  * Queue using Array * Queue using Linked List * Circular Queue using Array * Circular Queue using Linked List * DeQueue (Double Ended Queue) * Priority Queue  #### 🌳 Trees  * Binary Tree Traversals * Binary Search Tree (BST) * AVL Tree  #### 🔍 Graph Traversal  * Depth First Search (DFS) * Breadth First Search (BFS)  #### 🔎 Searching Algorithms  * Linear Search * Binary Search * Jump Search  #### 🔃 Sorting Algorithms  * Bubble Sort * Insertion Sort * Selection Sort
+  # 🚀 DSA Playground in C++
+
+An interactive and structured collection of Data Structures & Algorithms implemented in C++ — built for learning, revision, and interview preparation.
+
+---
+
+## 🌟 What makes this different?
+✨ Covers all fundamental DSA topics  
+✨ Includes all operations (insertion, deletion, traversal)  
+✨ Clean and beginner-friendly code  
+✨ Structured for quick revision  
+
+---
+
+## 📚 Topics Covered
+
+### 🔗 Linked Lists
+- Singly Linked List  
+- Doubly Linked List  
+- Circular Linked List  
+
+### 📦 Stack & Queue
+- Stack (Array + Linked List)  
+- Queue (Array + Linked List)  
+- Circular Queue  
+- DeQueue  
+- Priority Queue  
+
+### 🌳 Trees
+- Binary Tree Traversals  
+- Binary Search Tree  
+- AVL Tree  
+
+### 🔍 Algorithms
+- DFS & BFS  
+- Searching (Linear, Binary, Jump)  
+- Sorting (Bubble, Insertion, Selection)  
+
+---
+
+## ⚡ How to Run
+
+```bash
+g++ filename.cpp
+./a.out
